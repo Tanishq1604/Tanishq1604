@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm [Tanishq]
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -35,12 +35,12 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishq1604&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq1604&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq1604&theme=onedark)](https://github.com/yourusername/github-profile-trophy)
 
 ## 💼 Projects
 
