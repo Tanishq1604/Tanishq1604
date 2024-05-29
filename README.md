@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm [Tanishq]
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+![Profile views](https://komarev.com/ghpvc/?username=Tanishq1604&color=brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-b80b66286/)
+
 
 ## 🚀 About Me
 
-I am a passionate Full Stack Developer with expertise in a diverse range of technologies. My journey in the tech world has allowed me to build scalable and efficient applications, from front-end interfaces to back-end servers, and everything in between.
+I am a passionate Full Stack Developer with expertise in a diverse range of technologies. My journey in the tech world has allowed me to build scalable and efficient applications, from front-end interfaces to back-end servers, and everything in between.Currently trying to explore new technologies to learn and know what is good for me or what is not 
 
 ### 🌟 Skills
 
@@ -17,6 +17,7 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 - **AI & ML:** Generative AI
 - **Languages:** C++, JavaScript, Python
 - **Others:** HTML, CSS, Docker, REST APIs, GraphQL
+- **Learning:** Golang ,Solidity,Rust
 
 ### 🔧 Tools & Technologies
 
@@ -40,13 +41,13 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq1604&theme=onedark)](https://github.com/yourusername/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq1604&theme=onedark)](https://github.com/Tanishq1604/github-profile-trophy)
 
 ## 💼 Projects
 
-### 🌐 [Project Name](https://github.com/yourusername/projectname)
-**Description:** A brief description of what the project does and the technologies used.  
-**Tech Stack:** React, Node.js, MongoDB, AWS  
+### 🌐 [Project Name](https://github.com/Tanishq1604/Nature-Nexus)
+**Description:** With Zero knowlegde of rust ans stellar , I started this project like for 3 days there were a lot of error but after all this we was ablw to make it ,so what is it , it is a platform for privatizing to government waste management sector. i this we have 
+**Tech Stack:** React, Node.js, MongoDB,Rust ,Soroban sdk,Stellar, Express.js 
 ![Project Screenshot](https://via.placeholder.com/600x400.png?text=Project+Screenshot)
 
 ### 🌐 [Another Project](https://github.com/yourusername/anotherproject)
@@ -56,16 +57,11 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tanishq-b80b66286/)
 - Personal Website: [yourwebsite.com](https://yourwebsite.com)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: [youremail@example.com](tanishq162005@gmail.com)
 
-## 📜 Blog Posts
 
-- [Understanding the MERN Stack](https://yourblog.com/mern-stack)
-- [Introduction to AWS for Beginners](https://yourblog.com/aws-intro)
-- [Building a REST API with Express.js](https://yourblog.com/rest-api-express)
 
 ## 📝 Certifications
 
@@ -78,6 +74,8 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 - Advanced AI Techniques
 - Kubernetes
 - Serverless Architectures
+- devops
+- golang
 
 ## 🎯 Goals for 2024
 
