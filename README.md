@@ -43,17 +43,6 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq1604&theme=onedark)](https://github.com/Tanishq1604/github-profile-trophy)
 
-## 💼 Projects
-
-### 🌐 [Project Name](https://github.com/Tanishq1604/Nature-Nexus)
-**Description:** With Zero knowlegde of rust ans stellar , I started this project like for 3 days there were a lot of error but after all this we was ablw to make it ,so what is it , it is a platform for privatizing to government waste management sector. i this we have 
-**Tech Stack:** React, Node.js, MongoDB,Rust ,Soroban sdk,Stellar, Express.js 
-![Project Screenshot](https://via.placeholder.com/600x400.png?text=Project+Screenshot)
-
-### 🌐 [Another Project](https://github.com/yourusername/anotherproject)
-**Description:** A brief description of what the project does and the technologies used.  
-**Tech Stack:** Next.js, Express.js, MySQL  
-![Project Screenshot](https://via.placeholder.com/600x400.png?text=Project+Screenshot)
 
 ## 📫 Let's Connect
 
