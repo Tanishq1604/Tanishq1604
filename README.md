@@ -1,12 +1,14 @@
-# 👋 Hi there! I'm [Tanishq]
+# 👋 Hi there! I'm [Tanishq](https://github.com/Tanishq1604)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Tanishq1604&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-b80b66286/)
-
+[![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
 ## 🚀 About Me
 
-I am a passionate Full Stack Developer with expertise in a diverse range of technologies. My journey in the tech world has allowed me to build scalable and efficient applications, from front-end interfaces to back-end servers, and everything in between.Currently trying to explore new technologies to learn and know what is good for me or what is not 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+I am a passionate Full Stack Developer with expertise in a diverse range of technologies. My journey in the tech world has allowed me to build scalable and efficient applications, from front-end interfaces to back-end servers, and everything in between. Currently, I'm exploring new technologies to learn and know what is good for me or what is not.
 
 ### 🌟 Skills
 
@@ -16,8 +18,8 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 - **Cloud & DevOps:** AWS
 - **AI & ML:** Generative AI
 - **Languages:** C++, JavaScript, Python
-- **Others:** HTML, CSS, Docker, REST APIs, GraphQL,kubernetes,CI/CD,trpc
-- **Learning:** Golang ,Solidity,Rust
+- **Others:** HTML, CSS, Docker, REST APIs, GraphQL, Kubernetes, CI/CD, tRPC
+- **Learning:** Golang, Solidity, Rust
 
 ### 🔧 Tools & Technologies
 
@@ -36,21 +38,22 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishq1604&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq1604&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq1604&show_icons=true&theme=radical" alt="Tanishq's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq1604&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq1604&theme=onedark)](https://github.com/Tanishq1604/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanishq1604&theme=onedark" alt="Tanishq's GitHub Trophies" />
+</p>
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tanishq-b80b66286/)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
-- Email: [youremail@example.com](tanishq162005@gmail.com)
-
-
+- [LinkedIn](https://www.linkedin.com/in/tanishq-b80b66286/)
+- [Personal Website](https://yourwebsite.com)
+- Email: [tanishq162005@gmail.com](mailto:tanishq162005@gmail.com)
 
 ## 📝 Certifications
 
@@ -63,8 +66,8 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 - Advanced AI Techniques
 - Kubernetes
 - Serverless Architectures
-- devops
-- golang
+- DevOps
+- Golang
 
 ## 🎯 Goals for 2024
 
