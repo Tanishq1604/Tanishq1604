@@ -1,60 +1,81 @@
-<div align="center">
-  <a href="https://github.com/Harshit-shrivastav">
-    <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Tanishq1604&data=followers,repositories,stars,commits&theme=serika" />
-  </a>
-</div>
+# 👋 Hi there! I'm [Tanishq]
 
-<h2 align="center">🎓 About Me</h2>
-<ul>
-  <li>📚 I’m a Full Stack developer.</li>
-  <li>🌱 I’m currently learning Rust .</li>
-  <li>👯 I’m looking to collaborate on projects.</li>
-  <li>💬 Ask me about c++ and Blockchain .</li>
-</ul>
+![Profile views](https://komarev.com/ghpvc/?username=Tanishq1604&color=brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-b80b66286/)
 
 
-<h2 align="center">💻 Github Stats</h2>
-<div align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Profile%20Views&query=$.value&url=https://counter.itsharshit.workers.dev/" alt="Total Profile Views"/>
-  
-  <a href="https://github.com/Tanishq1604">
-    <img align="center" src="https://raw.githubusercontent.com/Tanishq1604/silver-system/master/github_stats.svg" />
-  </a>
-</div>
+## 🚀 About Me
+
+I am a passionate Full Stack Developer with expertise in a diverse range of technologies. My journey in the tech world has allowed me to build scalable and efficient applications, from front-end interfaces to back-end servers, and everything in between.Currently trying to explore new technologies to learn and know what is good for me or what is not 
+
+### 🌟 Skills
+
+- **Frontend:** React, Next.js, JavaScript, TypeScript
+- **Backend:** Node.js, Express.js, Python
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Cloud & DevOps:** AWS
+- **AI & ML:** Generative AI
+- **Languages:** C++, JavaScript, Python
+- **Others:** HTML, CSS, Docker, REST APIs, GraphQL,kubernetes,CI/CD,trpc
+- **Learning:** Golang ,Solidity,Rust
+
+### 🔧 Tools & Technologies
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishq1604&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq1604&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq1604&theme=onedark)](https://github.com/Tanishq1604/github-profile-trophy)
+
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tanishq-b80b66286/)
+- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- Email: [youremail@example.com](tanishq162005@gmail.com)
+
+
+
+## 📝 Certifications
+
+- **AWS Certified Solutions Architect**
+- **MongoDB Certified Developer**
+- **Certified Kubernetes Administrator**
+
+## 🌱 Currently Learning
+
+- Advanced AI Techniques
+- Kubernetes
+- Serverless Architectures
+- devops
+- golang
+
+## 🎯 Goals for 2024
+
+- Contribute to open-source projects
+- Build a personal project management tool
+- Improve my DevOps skills
+
+## 💬 Let's Chat!
+
+I love connecting with fellow developers, so feel free to reach out if you want to discuss technology, projects, or anything else!
 
 ---
 
-<h2 align="center">📑 Other Stats</h2>
-
-<div align="center">
-
-[![Harshit-shrivastav's GitHub | Stats](https://stats.quine.sh/Tanishq1604/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Tanishq1604)
-  
-[![Harshit-shrivastav's GitHub | Topics](https://stats.quine.sh/Tanishq1604/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Tanishq1604)
-
-[![Harshit-shrivastav's GitHub | Languages](https://stats.quine.sh/Tanishq1604/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Tanishq1604)
-
----
-
-<h2 align="center">💼 Skills</h2>
-
-### Languages
-<a href="https://github.com/Tanishq1604">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=python,sql,go,bash,json,rust,golang,solidity,javascript,markdown&theme=serika&includeNames=true" />
-</a>
-
-### Tools
-<a href="https://github.com/Tanishq1604">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,jupyter,markdown,firebase,mongodb,wordpress,vercel,redis,postgresql,prisma,redux,trpc,graphql,typescript,turborepo,kubernetes,aws&theme=serika&includeNames=true" />
-</a>
-
-### Libraries
-<a href="https://github.com/Tanishq1604">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow&theme=serika&includeNames=true" />
-</a>
-
-### Softwares & IDE's
-<a href="https://github.com/Tanishq1604">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills?software=Mac,vscode&theme=serika&includeNames=true" />
-</a>
-</div>
+*"Innovation distinguishes between a leader and a follower."* – Steve Jobs
