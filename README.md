@@ -53,7 +53,7 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 
 - [LinkedIn](https://www.linkedin.com/in/tanishq-b80b66286/)
 - [Portfolio](https://tanishq-ten-khaki.vercel.app/)
-- Email: [tanishq162005@gmail.com](mailto:tanishq162005@gmail.com)
+- [Email](mailto:tanishq162005@gmail.com)
 
 
 
