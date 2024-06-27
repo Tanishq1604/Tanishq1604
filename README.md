@@ -52,14 +52,10 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tanishq-b80b66286/)
-- [Personal Website](https://yourwebsite.com)
+- [Portfolio]([https://yourwebsite.com](https://tanishq-ten-khaki.vercel.app/))
 - Email: [tanishq162005@gmail.com](mailto:tanishq162005@gmail.com)
 
-## 📝 Certifications
 
-- **AWS Certified Solutions Architect**
-- **MongoDB Certified Developer**
-- **Certified Kubernetes Administrator**
 
 ## 🌱 Currently Learning
 
@@ -72,7 +68,7 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 ## 🎯 Goals for 2024
 
 - Contribute to open-source projects
-- Build a personal project management tool
+- learn technologies like ar/vr
 - Improve my DevOps skills
 
 ## 💬 Let's Chat!
