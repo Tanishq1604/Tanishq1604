@@ -17,9 +17,9 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Cloud & DevOps:** AWS
 - **AI & ML:** Generative AI
-- **Languages:** C++, JavaScript, Python
+- **Languages:** C++, JavaScript, Python,solidity,Rust
 - **Others:** HTML, CSS, Docker, REST APIs, GraphQL, Kubernetes, CI/CD, tRPC
-- **Learning:** Golang, Solidity, Rust
+- **Learning:** Golang
 
 ### 🔧 Tools & Technologies
 
@@ -60,9 +60,7 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 ## 🌱 Currently Learning
 
 - Advanced AI Techniques
-- Kubernetes
-- Serverless Architectures
-- DevOps
+- Advanced Kubernetes
 - Golang
 
 ## 🎯 Goals for 2024
