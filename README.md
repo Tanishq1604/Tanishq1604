@@ -15,10 +15,10 @@ I am a passionate Full Stack Developer with expertise in a diverse range of tech
 - **Frontend:** React, Next.js, JavaScript, TypeScript
 - **Backend:** Node.js, Express.js, Python
 - **Databases:** MongoDB, MySQL, PostgreSQL
-- **Cloud & DevOps:** AWS
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
 - **AI & ML:** Generative AI
 - **Languages:** C++, JavaScript, Python,solidity,Rust
-- **Others:** HTML, CSS, Docker, REST APIs, GraphQL, Kubernetes, CI/CD, tRPC
+- **Others:** HTML, CSS, REST APIs, GraphQL, tRPC
 - **Learning:** Golang
 
 ### 🔧 Tools & Technologies
