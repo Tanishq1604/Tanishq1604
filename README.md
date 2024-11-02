@@ -5,7 +5,8 @@
 ## 🚀 About Me
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 I am a passionate Full Stack Developer with expertise in a diverse range of technologies. My journey in the tech world has allowed me to build scalable and efficient applications, from front-end interfaces to back-end servers, and everything in between. Currently, I'm exploring new technologies to learn and know what is good for me or what is not.
-### 🌟 Skills
+
+## 🌟 Skills
 - **Frontend:** React, Next.js, JavaScript, TypeScript
 - **Backend:** Node.js, Express.js, Python
 - **Databases:** MongoDB, MySQL, PostgreSQL
