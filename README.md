@@ -103,15 +103,15 @@
 </p>
 
 ### GitHub Stats
-
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq1604&theme=dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq1604&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
 
 ## 📫 Let's Connect
 <p align="left">
