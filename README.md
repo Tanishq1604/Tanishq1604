@@ -109,8 +109,9 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact&hide=css,html" alt="Top Languages" />
 </p>
+
 
 
 ## 📫 Let's Connect
