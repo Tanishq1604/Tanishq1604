@@ -27,24 +27,7 @@
 
 <hr>
 
-## 🌟 Skills
-
-| **Frontend Development**                       | **Backend Development**                   | **Databases & Data Management**         | **Cloud & DevOps**                      |
-|------------------------------------------------|-------------------------------------------|-----------------------------------------|-----------------------------------------|
-| **Frameworks & Libraries**: React, Next.js, React Native | **Frameworks**: Node.js, Express.js, Bun | **SQL & NoSQL**: MySQL, PostgreSQL, MongoDB | **Cloud Providers**: AWS (EC2, S3, Lambda), Vercel, DigitalOcean |
-| **Languages**: JavaScript, TypeScript          | **APIs**: REST, GraphQL, tRPC             | **Caching & Indexing**: Redis, Drizzle ORM, Indexing, Caching | **Containers & Orchestration**: Docker, Kubernetes |
-| **Styling**: HTML, CSS, Tailwind CSS           | **Real-time Communication**: WebSockets, WebRTC, Socket.IO | **Optimizations**: Connection Pooling    | **Monitoring & Observability**: Prometheus, Grafana, NGINX |
-|                                                |                                           |                                         | **CI/CD**: GitHub Actions, Jenkins      |
-
-| **Blockchain & Web3**                          | **AI & Machine Learning**                 | **Programming Languages**               | **Other Skills**                        |
-|------------------------------------------------|-------------------------------------------|-----------------------------------------|-----------------------------------------|
-| **Smart Contracts**: Solidity, Hardhat, Func, Tact | **Generative AI & NLP**: Chatbots, Voice-to-Text | C++, JavaScript, Python               | **Version Control**: Git               |
-| **Chains**: Ethereum, TON, Tron, Neo, Solana, Polygon | **Computer Vision**: Injury Detection    | TypeScript, Rust, Solidity | **Collaboration**: Communication & Presentation |
-| **Multi-Chain Integration**                    |                                           |    **Learning**: Golang                            | **Tools**: PDF Annotation, GitHub       |
-
---- 
-
-## 🔧 Tools & Technologies
+## 🔧 SKills
 
 ### **Frontend**
 <p align="left">
@@ -104,38 +87,15 @@
 
 ### GitHub Stats
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq1604&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact&hide=css,html&count_private=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanishq1604&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact&hide=css,html" alt="Top Languages" />
-</p>
-
-
-
-## 📫 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/tanishq-b80b66286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://portfolio-tanishq.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:tanishq162005@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-## 🌱 Currently Learning
-I'm always looking to expand my skill set and dive into new technologies. Here's what I'm focusing on right now:
-- **Advanced AI Techniques**: Deepening my understanding of cutting-edge AI methodologies.
-- **Advanced Kubernetes**: Mastering the orchestration of containerized applications.
-- **Golang**: Exploring the simplicity and efficiency of this powerful language.
 
 ## 🎯 Goals for 2024
 This year, I'm setting ambitious goals to push my boundaries and make meaningful contributions:
-- **Open-source Contributions**: Actively contribute to impactful projects in the community.
-- **AR/VR Technologies**: Delve into augmented and virtual reality to create immersive experiences.
-- **DevOps Mastery**: Strengthen my DevOps knowledge to streamline deployments and optimize workflows.
-
-## 💬 Let's Chat!
-I'm passionate about technology and connecting with like-minded individuals. If you’re interested in collaborating, discussing projects, or just want to chat about tech, feel free to reach out!
-
----
+- [x] **Open-source Contributions**: Actively contribute to impactful projects in the community.
+- [ ] **AR/VR Technologies**: Delve into augmented and virtual reality to create immersive experiences.
+- [x] **DevOps Mastery**: Strengthen my DevOps knowledge to streamline deployments and optimize workflows.
 
 > *"The future is yours to invent."* — **Jensen Huang**
