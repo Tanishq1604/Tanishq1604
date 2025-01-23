@@ -93,7 +93,7 @@
 </table><table align='center'>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishq1604&theme=aura_dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanishq1604&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanishq1604&theme=aura_dark&exclude=html,scss,mathematica,js"></td>
   </tr>
 </table>
 
