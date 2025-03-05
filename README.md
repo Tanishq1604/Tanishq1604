@@ -17,10 +17,9 @@
 
 <h3 align="left">About Me: </h3>
 
+- OpenSource contributor and 8+ hackathon winner 🏆
+- Indie Hacker Built [Streamers](https://streamers.media) && [SendyourDM](https://sendyourdm.com)
 - CS Student at Delhi Technological university🎓
-- Full Stack Developer📱
-- With experience in  Web3🌐
-- OpenSource contributor and 5+ hackathon winner 🏆
 - Interested in building cloud-native solutions and currently learning golang ☁️
 
 
